@@ -63,7 +63,6 @@
 
 })(jQuery); // End of use strict
 
- /*Google Map API*/
 	function initMap() {
 	  let leicester = {
 	    lat: 52.631236,
